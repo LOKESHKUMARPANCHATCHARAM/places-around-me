@@ -6,7 +6,10 @@ To develop a website to display details about the places around my house.
 
 ### Step 1:
 
+Writw the html code.
+
 ### Step 2:
+run the server and upload your output.
 
 ## Code:
 
